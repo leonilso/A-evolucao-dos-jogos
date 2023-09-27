@@ -10,10 +10,8 @@ body{
     font-size: 20px;
 }
 
-.caixa{
-    width: 200px;
-}
-img{
-    width: auto;
-    height: auto;
+
+#game-img{
+    width: 100px;
+    height: 100px;
 }
