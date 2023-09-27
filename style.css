@@ -9,3 +9,7 @@ body{
 .paragrafo{
     font-size: 20px;
 }
+
+.caixa{
+    width: 500px;
+}
